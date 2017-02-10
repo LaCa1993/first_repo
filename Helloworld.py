@@ -1,1 +1,5 @@
 print("Greetings Earth! We come in peace.")
+print("We are from a distant planet and we need to fill our source energy, Could you help us?.")
+print ("But first we need to talk about your entrance to the earth space.")
+print("something else")
+print("I have just upload my local repository to the Github remote server")
